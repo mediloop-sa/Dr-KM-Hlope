@@ -8,20 +8,11 @@ export default function Footer() {
             process.
           </h3>
           <div className="flex gap-3">
+            {/* TODO: add Facebook link back in once we have the URL */}
             <a
-              href="#"
-              aria-label="Facebook"
-              className="flex h-11 w-11 items-center justify-center rounded-full border border-[#4A443A] hover:border-gold"
-            >
-              <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-                <path
-                  d="M10.5 5H9a1 1 0 0 0-1 1v1.5H10.5L10 10H8V15H5.5V10H4V7.5H5.5V5.8A2.8 2.8 0 0 1 8.3 3H10.5V5Z"
-                  fill="#FAF6EF"
-                />
-              </svg>
-            </a>
-            <a
-              href="#"
+              href="https://www.instagram.com/nelspruit_dermatologist"
+              target="_blank"
+              rel="noopener noreferrer"
               aria-label="Instagram"
               className="flex h-11 w-11 items-center justify-center rounded-full border border-[#4A443A] hover:border-gold"
             >
