@@ -9,7 +9,7 @@ export default function About() {
       <div className="md:sticky md:top-28 md:col-span-5 md:self-start">
         <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[20px] border border-line bg-gold-wash">
           <Image
-            src="https://vafzjdqepmuunwqhzunz.supabase.co/storage/v1/object/public/branding/Dr%20Hlope%20Facebook.jpg"
+            src="https://vafzjdqepmuunwqhzunz.supabase.co/storage/v1/object/public/branding/Dr%20Kaisha.jpg"
             alt="Dr. KM Hlophe in consultation"
             fill
             sizes="(min-width: 768px) 35vw, 90vw"
